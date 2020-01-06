@@ -1,0 +1,2 @@
+# SenchaCMD
+Binaries
